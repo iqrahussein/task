@@ -1,0 +1,17 @@
+node_modules/
+.env
+
+dist/
+build/
+
+logs/
+*.log
+
+uploads/
+
+
+.vscode/
+.idea/
+.DS_store
+
+swagger-output.json
